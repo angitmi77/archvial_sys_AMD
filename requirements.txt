@@ -1,0 +1,11 @@
+pycountry==22.3.5
+requests==2.31.0
+streamlit==1.25.0
+streamlit-authenticator==0.2.2
+streamlit-lottie==0.0.5
+streamlit-option-menu==0.3.6
+mysql-connector-python~=8.1.0
+pandas==2.0.3
+plotly==5.15.0
+
+
